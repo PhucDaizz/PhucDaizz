@@ -1,74 +1,68 @@
-# 👋 Hi there, I'm PhucDaizz!
+# Hi there, I'm Nguyen Phuc Dai (PhucDaizz)!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;Passionate+about+Clean+Code+%26+Architecture;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=.NET+Backend+Developer;Passionate+about+Clean+Architecture+%26+DDD;Building+High-Concurrency+Microservices;Integrating+Agentic+AI+%26+RAG+Pipelines" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyễn-phúc-đại-82719a27b)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dai742004.dn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nguyenphucdai.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-ph%C3%BAc-%C4%91%E1%BA%A1i-82719a27b)
+[![Email](https://img.shields.io/badge/Email-Contact-bb9af0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dai742004.dn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f7768e?style=for-the-badge&logo=vercel&logoColor=white)](https://nguyenphucdai.vercel.app)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a passionate Vietnamese software engineer with a strong interest in leveraging technology to improve everyday life.
-My focus is on building robust, user-friendly solutions that solve real-world problems.
-
-Driven by a desire to make a positive impact, I am always exploring new ways to use my creativity and technical skills to create meaningful change.
-I firmly believe in the power of technology to solve complex challenges and improve the quality of life for individuals and communities.
+I am a passionate software engineer focused on backend development with the .NET ecosystem. I specialize in designing and building scalable web applications and microservices using modern architectural patterns like Clean Architecture, Domain-Driven Design (DDD), and CQRS. I also have a keen interest in integrating AI-driven features, such as Agentic AI and RAG pipelines, into backend systems to create intelligent applications.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Technical Toolbox
 
 <div align="center">
 
-### **Backend Development**
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<h4>Programming Languages</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,py,html,css" height="40" alt="Languages" />
+</a>
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<h4>Frameworks & Libraries</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,vite,fastapi,bootstrap,figma" height="40" alt="Frameworks" />
+</a>
 
-### **Databases**
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<h4>Databases & Caching</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" height="40" alt="Databases" />
+</a>
+<img src="https://img.shields.io/badge/MS_SQL_Server-24283b?style=for-the-badge&logo=microsoft-sql-server&logoColor=7aa2f7" height="40" alt="MS SQL Server" />
+<img src="https://img.shields.io/badge/Qdrant-24283b?style=for-the-badge&logo=qdrant&logoColor=7aa2f7" height="40" alt="Qdrant" />
 
-### **Cloud & DevOps**
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<h4>AI, RAG & Gateway</h4>
+<img src="https://img.shields.io/badge/Ollama-24283b?style=for-the-badge&logo=ollama&logoColor=bb9af0" height="40" alt="Ollama" />
+<img src="https://img.shields.io/badge/Semantic_Kernel-24283b?style=for-the-badge&logo=microsoft&logoColor=7aa2f7" height="40" alt="Semantic Kernel" />
+<img src="https://img.shields.io/badge/Ocelot_Gateway-24283b?style=for-the-badge&logoColor=f7768e" height="40" alt="Ocelot" />
 
-### **Development Tools**
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+<h4>Messaging & Middleware</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rabbitmq,redis" height="40" alt="Messaging" />
+</a>
 
-</div>a
+<h4>DevOps & Tools</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" height="40" alt="DevOps" />
+</a>
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhucDaizz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucDaizz&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -81,64 +75,19 @@ I firmly believe in the power of technology to solve complex challenges and impr
 
 ---
 
-
-
-## 🎯 Core Competencies
+## Let's Connect
 
 <div align="center">
 
-| **Backend Development** | **Frontend Development** | **Database & Architecture** |
-|:---:|:---:|:---:|
-| ASP.NET Core Web API | React with Hooks | SQL Server Design |
-| Entity Framework Core | Component Architecture | Database Optimization |
-| Repository Pattern | State Management | Clean Architecture |
-| Dependency Injection | Responsive Design | Design Patterns |
-| JWT Authentication | Real-time Updates | Performance Tuning |
-| RESTful API Design | Modern JavaScript | Microservices |
+**I am always open to discussing internship/fresher opportunities, collaborating on open-source projects, or just chatting about backend systems & AI!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-ph%C3%BAc-%C4%91%E1%BA%A1i-82719a27b)
+[![Email](https://img.shields.io/badge/Email-Contact-bb9af0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dai742004.dn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f7768e?style=for-the-badge&logo=vercel&logoColor=white)](https://nguyenphucdai.vercel.app)
 
 </div>
 
----
-
-
-## 🌟 What I Bring to the Table
-
 <div align="center">
-
-| 🎯 **Problem Solving** | 🔧 **Technical Skills** | 🤝 **Collaboration** |
-|:---:|:---:|:---:|
-| Analytical thinking | Modern frameworks | Team communication |
-| Clean code practices | Performance optimization | Code reviews |
-| Architectural design | Testing & debugging | Knowledge sharing |
-
-</div>
-
----
-
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-**🤝 I'm always open to discussing new opportunities, collaborating on exciting projects, or just having a chat about technology!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyễn-phúc-đại-82719a27b)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dai742004.dn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nguyenphucdai.vercel.app)
-
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PhucDaizz&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-
-**⭐ If you find my work interesting, don't forget to star my repositories!**
-
-**🚀 Always excited to work on challenging projects and innovative solutions!**
-
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=PhucDaizz&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </div>

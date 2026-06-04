@@ -79,7 +79,7 @@ I am a passionate software engineer focused on backend development with the .NET
 
 <div align="center">
 
-**I am always open to discussing internship/fresher opportunities, collaborating on open-source projects, or just chatting about backend systems & AI!**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-ph%C3%BAc-%C4%91%E1%BA%A1i-82719a27b)
 [![Email](https://img.shields.io/badge/Email-Contact-bb9af0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dai742004.dn@gmail.com)
